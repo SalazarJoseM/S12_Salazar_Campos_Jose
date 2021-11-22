@@ -12,7 +12,12 @@ Fixes:      - Te hace falta la condición de __main__
                 sola línea de código
 """
 
-numero = float(input("Ingresa un numero "))     
-if numero > 0: print("El numero es positivo")   # PEP8
-elif numero < 0: print("El numero es negativo") # PEP8
-else: print("El numero es cero")                # PEP8
+
+if __name__ == '__main__':
+    numero = float(input("Ingresa un numero "))
+    if numero > 0:
+        print("El numero es positivo")
+    elif numero < 0:
+        print("El numero es negativo")
+    else:
+        print("El numero es cero")
