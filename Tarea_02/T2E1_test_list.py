@@ -1,14 +1,14 @@
 """
-Date: 2021-11-16
-Authors: Jose Magdaleno Salazar Campos
-
-File: T2_E1_test_list.py
-Brief: Se crea una lista de strings definida y se realizan metodos de listas como append, pop, insert y ordenacion.
-Score:
-Version: A.B.1
-Fixes:
+Date:       2021-11-16
+Authors:    Jose Magdaleno Salazar Campos
+File:       T2_E1_test_list.py
+Brief:      Se crea una lista de strings definida y se realizan metodos de listas como append, pop, insert y ordenacion.
+Score:      90
+Version:    1.1.1
+Fixes:      - PEP8 recomienda no rebasar los 99 carácteres en una línea 
+                de código, yo establecí en los requerimientos máximo 72
+                carácteres (aplica para comentarios también)
 """
-
 
 if __name__ == '__main__':
     lista = ["Hola", "Jose", "Python", "Capacitacion", "Redes", "Inteligencia"]
