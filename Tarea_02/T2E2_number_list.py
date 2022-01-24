@@ -1,12 +1,16 @@
 """
-Date: 2021-11-16
-Authors: Jose Magdaleno Salazar Campos
-
-File: T2_E2_number_list.py
-Brief: Se crea una lista de n numeros desde el teclado y se realizan acciones como ordenar, añadir, imprimir, etc.
-Score:
-Version: A.B.1
-Fixes:
+Date:       2021-11-16
+Authors:    Jose Magdaleno Salazar Campos
+File:       T2_E2_number_list.py
+Brief:      Se crea una lista de n numeros desde el teclado y se realizan acciones como ordenar, añadir, imprimir, etc.
+Score:      80
+Version:    1.1.1
+Fixes:      - PEP8 recomienda no rebasar los 99 carácteres en una línea 
+                de código, yo establecí en los requerimientos máximo 72
+                carácteres (aplica para comentarios también)
+            
+            - En el paso 1 de este ejercicio, falto imprimir el tipo de 
+                dato
 """
 
 
