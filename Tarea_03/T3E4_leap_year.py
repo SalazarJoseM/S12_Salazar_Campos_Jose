@@ -1,12 +1,12 @@
 """
-Date: 2021-11-26
-Authors: Jose Magdaleno Salazar Campos
-
-File: T3E4_leap_year.py
-Brief: Se tiene una funcion que valide si una fecha es valida.
-Score:
-Version: A.B.1
-Fixes:
+Date:       2021-11-26
+Authors:    Jose Magdaleno Salazar Campos
+File:       T3E4_leap_year.py
+Brief:      Se tiene una funcion que valide si una fecha es valida.
+Score:      120
+Version:    1.1.1
+Fixes:      + [20] Excelente código, el primeor que valido correctamente
+            el año bisiesto considerando los divisibles entre 400
 """
 
 
