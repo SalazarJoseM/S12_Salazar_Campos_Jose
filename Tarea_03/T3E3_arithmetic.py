@@ -1,12 +1,19 @@
 """
-Date: 2021-11-26
-Authors: Jose Magdaleno Salazar Campos
+Date:       2021-11-26
+Authors:    Jose Magdaleno Salazar Campos
+File:       T3E3_arithmetic.py
+Brief:      Se tienen funciones que suman, restan, multiplican y dividen dos numeros de punto flotante.
+Score:      80 (55)
+Version:    0.1.1
+Fixes:      - [25] PEP8 recomienda no rebasar los 99 carácteres en una
+                línea de código, yo establecí en los requerimientos
+                máximo 72 carácteres (aplica para comentarios también)}
 
-File: T3E3_arithmetic.py
-Brief: Se tienen funciones que suman, restan, multiplican y dividen dos numeros de punto flotante.
-Score:
-Version: A.B.1
-Fixes:
+            - [20] PEP8 recomienda añadir un espacio en blanco después del
+                carácter de coma ','
+
+            * La variable resultado te la puedes ahorrar en las funciones
+                simplmente poniendo la operación en el return
 """
 
 
