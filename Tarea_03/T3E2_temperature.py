@@ -1,12 +1,13 @@
 """
-Date: 2021-11-21
-Authors: Jose Magdaleno Salazar Campos
-
-File: T3E2_temperature.py
-Brief: Se tienen dos funciones que convierten temperatura de grados celsius a fahrenheit y viceversa.
-Score:
-Version: A.B.1
-Fixes:
+Date:       2021-11-21
+Authors:    Jose Magdaleno Salazar Campos
+File:       T3E2_temperature.py
+Brief:      Se tienen dos funciones que convierten temperatura de grados celsius a fahrenheit y viceversa.
+Score:      80 (75)
+Version:    1.1.1
+Fixes:      - [25] PEP8 recomienda no rebasar los 99 carácteres en una
+                línea de código, yo establecí en los requerimientos
+                máximo 72 carácteres (aplica para comentarios también)
 """
 
 
